@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualDAM", "VisualDAM\VisualDAM.csproj", "{CD4F459A-9110-4F96-808F-3F4C8BA366AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4F459A-9110-4F96-808F-3F4C8BA366AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4F459A-9110-4F96-808F-3F4C8BA366AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4F459A-9110-4F96-808F-3F4C8BA366AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4F459A-9110-4F96-808F-3F4C8BA366AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C1ABA9-1E64-4DF1-BB24-65C1E83ED08C}
+	EndGlobalSection
+EndGlobal

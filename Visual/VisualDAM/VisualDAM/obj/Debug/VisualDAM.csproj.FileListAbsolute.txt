@@ -1,0 +1,14 @@
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\bin\Debug\AccessMatrixClient.exe.config
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\bin\Debug\AccessMatrixClient.exe
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\bin\Debug\AccessMatrixClient.pdb
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\obj\Debug\VisualDAM.csprojAssemblyReference.cache
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\obj\Debug\VisualDAM.MainForm.resources
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\obj\Debug\AccessMatrixClient.Properties.Resources.resources
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\obj\Debug\VisualDAM.csproj.GenerateResource.cache
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\obj\Debug\VisualDAM.csproj.CoreCompileInputs.cache
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\obj\Debug\VisualDAM.csproj.CopyComplete
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\obj\Debug\AccessMatrixClient.exe
+C:\Users\redmo\Documents\GitHub\tmp\VisualDAM\VisualDAM\VisualDAM\obj\Debug\AccessMatrixClient.pdb

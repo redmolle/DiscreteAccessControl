@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessMatrixClient", "AccessMatrixClient\AccessMatrixClient.csproj", "{BC908DAD-E7BD-40D8-8025-C8271FFE050D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC908DAD-E7BD-40D8-8025-C8271FFE050D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC908DAD-E7BD-40D8-8025-C8271FFE050D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC908DAD-E7BD-40D8-8025-C8271FFE050D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC908DAD-E7BD-40D8-8025-C8271FFE050D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B6B686A-BAA3-4098-B705-62725F527C54}
+	EndGlobalSection
+EndGlobal
